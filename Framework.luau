@@ -127,10 +127,10 @@ local function newConnection(signal: any, fn: (...any) -> ()): Connection
 			else
 				local node = sig._head
 				while node and node._next ~= self do
-					node = node._next            -- walk forward
+					node = node._next            --  Moving to the next node in the linked list
 				end
 				if node then
-					node._next = self._next      -- splice us out
+					node._next = self._next      -- -- Delete this item from the linked list by linking the previous node to the following one
 				end
 			end
 		end
