@@ -11,7 +11,7 @@
 	AddServicesDeep, AddControllersDeep, PrioritizeStart, Start, OnStart,
 	Signal, Promise, Net.
 
-	-Discord: dev_obito0 / Roblox: AY_PRO28 : 12/05/2025
+	-Discord: dev_obito0 / Roblox: AY_PRO28 : 5/4/2026
 
 	[FOR HD LUAU SCRIPTER APPLICATION, WHICH EXPLAINS LOTS OF COMMENTS.]
 
